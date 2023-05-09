@@ -3,6 +3,7 @@
 To start the system execute
 
    ```
+      cd api
       docker compose up
    ```
 
